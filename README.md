@@ -1,7 +1,9 @@
 # Flower Vault 🌸  
 
 **Selamat datang di Flower Vault!** 🌼  
-Aplikasi ini adalah taman digital pribadi Anda untuk mengelola dan mencintai bunga-bunga indah. Dengan Flower Vault, bunga Anda akan selalu merasa seperti ratu taman (atau pangeran)! 👑🌷  
+Aplikasi ini adalah taman digital pribadi Anda untuk mengelola dan mencintai bunga-bunga indah. Dengan Flower Vault, bunga Anda akan selalu merasa seperti ratu taman (atau pangeran)! 👑🌷
+
+**Aplikasi ini dibuat dengan cinta oleh Aneira.** ❤️
 
 ## ✨ Fitur Utama
 
