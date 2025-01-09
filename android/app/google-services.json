@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "980481860175",
+    "project_id": "flower-vault",
+    "storage_bucket": "flower-vault.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:980481860175:android:ca61204bf16181fa07c03a",
+        "android_client_info": {
+          "package_name": "com.example.flower_vault"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-ub0QUmOsxMq1gA2hQUbFcNI4FEPPfGU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

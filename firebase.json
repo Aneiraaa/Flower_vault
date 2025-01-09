@@ -1,0 +1,1 @@
+{"flutter":{"platforms":{"android":{"default":{"projectId":"flower-vault","appId":"1:980481860175:android:ca61204bf16181fa07c03a","fileOutput":"android/app/google-services.json"}},"dart":{"lib/firebase_options.dart":{"projectId":"flower-vault","configurations":{"android":"1:980481860175:android:ca61204bf16181fa07c03a","ios":"1:980481860175:ios:116fbea770a175ea07c03a"}}}}}}

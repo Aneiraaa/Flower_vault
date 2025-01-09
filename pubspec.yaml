@@ -1,0 +1,29 @@
+name: flower_vault
+description: "A new Flutter project."
+publish_to: "none"
+version: 0.1.0
+
+environment:
+  sdk: ^3.5.4
+
+dependencies:
+  cloud_firestore: ^5.6.0
+  firebase_auth: ^5.3.4
+  firebase_core: ^3.9.0
+  firebase_storage: ^12.3.7
+  flutter:
+    sdk: flutter
+  intl: ^0.20.1
+  plant_icons: ^0.0.3
+  shared_preferences: ^2.3.2
+  sqflite: ^2.4.1
+
+dev_dependencies:
+  flutter_lints: ^5.0.0
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/
